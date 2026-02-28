@@ -13,6 +13,7 @@ It helps financial institutions monitor portfolio health, identify risk exposure
 ---
 ![Dashboard 1](https://github.com/Saijal-choudhary/Bank-Loan-Analysis-Report/blob/main/Dashboard%20Snapshots/Summary.png)
 ![Dashboard 2](https://github.com/Saijal-choudhary/Bank-Loan-Analysis-Report/blob/main/Dashboard%20Snapshots/Overview.png)
+![Dashboard 3](https://github.com/Saijal-choudhary/Bank-Loan-Analysis-Report/blob/main/Dashboard%20Snapshots/Details.png)
 ## 2️⃣ 🛠 Tech Stack  
 
 - 🧠**SQL** – Data extraction, cleaning, joins, aggregations  
