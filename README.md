@@ -11,7 +11,8 @@ This dashboard provides a comprehensive analysis of structured financial loan da
 It helps financial institutions monitor portfolio health, identify risk exposure, and make data-driven decisions.
 
 ---
-![Dashboard Preview](https://github.com/Saijal-choudhary/Bank-Loan-Analysis-Report/blob/main/Dashboard%20Snapshots/Summary.png)
+![Dashboard 1](https://github.com/Saijal-choudhary/Bank-Loan-Analysis-Report/blob/main/Dashboard%20Snapshots/Summary.png)
+![Dashboard 2](https://github.com/Saijal-choudhary/Bank-Loan-Analysis-Report/blob/main/Dashboard%20Snapshots/Overview.png)
 ## 2️⃣ 🛠 Tech Stack  
 
 - 🧠**SQL** – Data extraction, cleaning, joins, aggregations  
